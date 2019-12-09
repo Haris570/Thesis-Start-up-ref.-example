@@ -1,2 +1,3 @@
 # Thesis-Start-up-ref.-example
-This example was used just to get know how of EDA and to play around with the data before diving into real world data.
+These examples were used as a playground to get know-how of EDA and Principal Component Analysis. How things works with different 
+data sets before diving into real world data.
